@@ -1,0 +1,32 @@
+Staging = la zone d'étape
+GPS = le système GPS 
+Radio = le radio
+Team First Aid Bag = trousse de premiers soins
+Insulating pad = mat à isolation thermique
+Sked + Immobilizer = Sked + kit d’étourdissement 
+Litter = la civière = le brancard
+Briefing = le briefing
+On Task =
+Language = la langue
+Nom nom nom (eat!) = Mangez!
+Gulp gulp gulp (drink!) = Bouvez!
+Safety of the team comes first! = Sécurité d'abord 
+Check in every 1/2 hour = Contactez command demi-heure
+Safety bearing = Relèvement de sécurité 
+Do you have... = Avez vous...
+Advanced First Aiders? = Quelqu’un avec secourisme avancé?
+Amateur Radio? = Quelqu’un avec Radioamateur 
+Health issues on the team? = Questions relatives à la santé?
+Overview of the tasking = Attribution des mission
+Helmet = la casque
+Safety goggles = des lunettes de sécurité
+Headlamp + batteries = 
+Note any info on subject = 
+ICP marked = PCI marqué 
+ICP = PCI 
+Incident Command Post = poste de commandement du lieu d’incident 
+GPS cleared = Système GPS dégagé 
+
+
+
+
