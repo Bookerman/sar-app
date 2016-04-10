@@ -171,7 +171,8 @@ end;
 
 // Let's try some conflicting edits. This is out of date with what is in the master!
 // Ready to go with TextPad ... for commit comments, even? 
-// beware spaces in the path/filename. Bad. Evil.
+
+// well, let's try windows and see what happens...
 
 
 procedure TTabbedForm.Timer1Timer(Sender: TObject);
