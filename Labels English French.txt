@@ -1,0 +1,27 @@
+SBO-OVSAR Aide Memoire
+Staging	
+GPS	SPG
+Radio	Radio
+Team First Aid Bag	
+Sked	Sked
+Litter	Civère
+Briefing	Bref
+On Task	En tâche
+Francais	English
+Source	Source
+Eat	Manger
+Drink	Bouvez
+Safety of the team comes first	Sécurité d'abord
+Check in every 1/2 hour	Contactez command demi-heure
+Safety Bearing	Relévement de sécurité
+Advanced First Aiders	Secourisme avancé
+Amateur Radio Operator	Radioamateur
+Health issues on team	Questions relatives à la santé
+Overview of Tasking	Attribution de mission
+Helmets	Casques
+Goggles	Lunettes de sécurité
+Headlamp + Batteries	
+Insulating Pad	
+Note any info on subject(s)
+ICP Marked
+Cleared

@@ -1,0 +1,128 @@
+Staging
+• GPS	• extra batteries
+• Cleared	• Mark ICP
+• Radio	• Team First Aid Bag
+• SKED	• Litter (+ wheel & saw kit)
+• Helmets 	• Goggles
+• Headlamp	• extra batteries
+• Bug juice	• Sun screen / Sun Glasses
+
+• Note any info on subject(s)	Briefing
+• Overview of Tasking
+• Info on subject(s)
+
+• Safety Bearing:  _______ 
+• Advanced First Aiders?
+• Amateur Radio Operators?
+• Health Issues on team?	On Task
+Safety of the Team comes first!
+• Om nom nom (Eat!)
+• Glug glug glug (Drink!)
+• Check in every ½ hour
+
+• Don’t overheat / sweat
+Arrival
+• Sign in
+• T-Card
+• Gaiters
+• Rain gear / Pack Cover
+• Helmet
+• Help with setup
+• Subject Info
+• Check maps
+
+
+	Hazards
+(sub-tab for Briefing)
+• Water features?
+• Cliffs
+• Heat / Sun ? sunscreen, hat
+• Cold / Wind chill
+• Deep Snow
+• Ice ? cleats
+• Wind ? falling branches
+• Rain ? Slippery logs, moss
+• Bugs: mosquitoes, tics
+• Poison Ivy, Poison Oak
+	Radio
+SBO-OVSAR Channels
+Ch 1  Main Ch	151.085	151.085
+Ch 2  Working Ch	151.115	151.115
+Ch 3  SAR Ch	149.08	149.08
+Ch 4  Repeater	151.085	???
+8	EMGCTR	146.88	146.28
+REH Repeater Network (Amateur Radio)
+22	REHLAN	444.15	449.15
+23	REHCLY	147.105	147.705
+24	REHBUK	145.49	144.89
+25	REHPAK	145.33	144.73
+26	REHMSM	146.61	146.01
+27	REHMLR	147.105	147.705
+28	REHCB	147.39	147.99
+29	REHCF	147.36	147.96
+30	REHBF	145.17	145.17
+31	REHRPN	147.39	147.99
+32	REHHUB	444.6	449.6
+33	REHMTL	444.6	449.6
+Extraction
+• Route In
+• Route Out
+• Route Clearing
+• Team well watered up 
+• Team snacked up
+
+• Medical Lead (at head)
+• Litter Lead (front right)
+• Route Lead (in front)
+
+• Patient Packaged
+• Face / Eyes covered
+
+• Sweep of area after depart		
+
+#############################################3
+from black notebook added 2015-06-10
+Transcribed 2015-07-06
+
+Hazards (secondary page off "Briefing" tab)
+ - Wind chill
+ - Deep snow
+ - ice (melting/freezing conditions) --> cleats
+ 
+ - Bugs
+ - Tics --> gaiters, hats, long sleeves
+ 
+ - Heat --> stay hydrated, easier pace,
+ 
+ - Poison Ivy --> pic of what it looks like
+ - Poison Oak --> pic of what it looks like
+ 
+ Water / swamps in the area
+ Hills / drop offs, steep cliffs
+ 
+ Wind --> falling branches, trees(!)
+ Rain --> slippery logs, mmoss
+ Hot & Sunny
+  --> sunglasses
+  --> snow blindness
+  --> sunscreen & hat
+  
+  ---------------------
+Other ideas:
+
+Extraction Checklist:
+
+Radio & Phone numbers (program into phone!)
+
+Tips for radio reception (separate sub-tab on radio tab?)
+
+Apps within the app:
+1. grid refs for dropping ppl off
+Given:
+ - Start point MGRS
+ - Critical Separation in metres
+ - Direction of shaking team out to start grid search: {N, S, E, W}
+
+2. If I'm at ___ (MGRS) and want to go ___ metres in ____ direction, where do I end up (MGRS)?
+i.e. grid ref calc for "project a waypoint)
+or "What is the GR of your projected waypoint?  ... gee, your GPS should give you that.
